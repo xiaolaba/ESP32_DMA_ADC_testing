@@ -2,6 +2,9 @@
 
 my copy and the original CC 4.0 as following, CSDN was a bit without user friendly, copy code was not easy as the github  
 
+author and the words for code design,  
+[ESP32S2 ADC ~ Moliam.pdf](ESP32S2 ADC ~ Moliam.pdf) 
+
 ### try [Arduino_esp32_dma_adc_failed](Arduino_esp32_dma_adc_failed) to gen code
 esp32_dma_adc.h
 esp32_dma_adc.ino
