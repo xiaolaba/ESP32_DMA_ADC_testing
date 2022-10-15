@@ -1,5 +1,5 @@
 # ESP32_DMA_ADC_testing  
-
+perhaps esp32-s2 only,  
 my copy and the original CC 4.0 as following, CSDN was a bit without user friendly, copy code was not easy as the github  
 
 author and the words for code design,  
