@@ -19,3 +19,12 @@ add following to the source code
 
 #include "esp32_dma_adc.h"
 ```
+
+
+### use IDF 4.3.4 to build
+build will fails when set target default to esp32, esp32-s2 has to be, otherwise error "no soc/system.h" or something.  
+```
+idf.py set-target esp32-s2
+idf.py build esp32-s2
+
+```
