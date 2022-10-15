@@ -23,8 +23,14 @@ add following to the source code
 
 ### use IDF 4.3.4 to build
 build will fails when set target default to esp32, esp32-s2 has to be, otherwise error "no soc/system.h" or something.  
+steps,
 ```
 idf.py set-target esp32-s2
-idf.py build esp32-s2
+idf.py build
 
 ```
+
+### full source code and compilable project files
+the result, but no harware could be used to test yet at the moment.  
+
+[dma\my_build_ok.JPG](dma\my_build_ok.JPG)
