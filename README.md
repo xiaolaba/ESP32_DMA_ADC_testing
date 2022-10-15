@@ -5,7 +5,7 @@ my copy and the original CC 4.0 as following, CSDN was a bit without user friend
 版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。   
 本文链接：https://blog.csdn.net/weixin_44529321/article/details/115082805  
 
-### try ARduino IDE esp32 to gen code, failed
+### try [Arduino_esp32_dma_adc_failed](Arduino_esp32_dma_adc_failed) to gen code
 esp32_dma_adc.h
 esp32_dma_adc.ino
 add following to the source code
